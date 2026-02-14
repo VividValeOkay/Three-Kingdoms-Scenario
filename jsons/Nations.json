@@ -1,1 +1,27 @@
+[
+  {
+    "name": "Egypt",
+		"leaderName": "Mentuhotep II",
+		"adjective": ["Egyptian"],
 
+    "startIntroPart1": "From the first stirrings of life beneath water... to the great beasts of the Stone Age... to man taking his first upright steps, you have come far. Now begins your greatest quest: from this early cradle of civilization on towards the stars.",
+    "startIntroPart2": "Mighty and eternal Mentuhotep, Egypt lasted for millenia, whereas other civilisations disappeared into dust after a few centuries. Amun-Ra blesses you again to lead Egypt and its people on the path of light. Will your new empire shine through the ages of history?",
+
+		"declaringWar": "You are but a pest on this Earth, prepare to be eliminated!",
+		"attacked": "You are a fool who evokes pity. You have brought my hostility upon yourself and your repulsive civilization!",
+		"defeated": "Strike me down and my soul will torment yours forever, you have won nothing.",
+		"introduction": "Greetings, I am Mentuhotep II. I am the living embodiment of Egypt, mother and father of all civilizations.",
+
+		"neutralHello": "Good day.",
+		"hateHello": "Oh, it's you.",
+
+		"tradeRequest": "Generous Egypt makes you this offer.",
+
+		"outerColor": [255, 252, 3],
+		"innerColor": [83, 0, 208],
+		"uniqueName": "Monument Builders",
+		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
+		"cities": ["Thebes","Memphis","Akhetaten","Shedet","ỉwnw","Swenett","Sais","Abydos","Apu","Edfu",
+               "Mendes","Sena","Cyrene","Buto","Giza"],
+  },
+]
