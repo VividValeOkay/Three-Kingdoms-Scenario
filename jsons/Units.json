@@ -33,15 +33,23 @@
 		"name": "Warrior",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 8,
+		"strength": 20,
 		"cost": 40,
 		"requiredTech": "Agriculture",
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
 		"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
 		]
+	},
+	{
+		"name": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 25,
+		"cost": 65,
+		"requiredTech": "Bronze Working",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
 	},
 ]
