@@ -17,8 +17,8 @@
 
 	"tradeRequest": "Generous Egypt makes you this offer.",
 
-	"outerColor": [255, 252, 3],
-	"innerColor": [83, 0, 208],
+	"outerColor": [1, 79, 81],
+	"innerColor": [234, 225, 157],
 	"uniqueName": "Iteru",
 	"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
 	"cities": ["Thebes","Memphis","Akhetaten","Shedet","ỉwnw","Swenett","Sais","Abydos","Apu","Edfu",
@@ -42,8 +42,8 @@
 
 	"tradeRequest": "Generous Nubia makes you this offer.",
 
-	"outerColor": [255, 252, 3],
-	"innerColor": [83, 0, 208],
+	"outerColor": [234, 225, 157],
+	"innerColor": [120, 61, 2],
 	"uniqueName": "Ta-Seti",
 	"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
 	"cities": ["Kerma","Napata","Nuri","El-Kurru","Kawa","Sedeinga","Heh","Qasr Ibrim","Faras","Shaat",
