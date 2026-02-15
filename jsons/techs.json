@@ -38,5 +38,39 @@
 			}
     ]
   },
+	{
+		"columnNumber": 2,
+		"era": "Ancient era",
+		"techCost": 60,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Sailing",
+				"row": 1,
+				"prerequisites": ["Fishing"],
+			},
+			{
+				"name": "Irrigation",
+				"row": 3,
+				"prerequisites": ["Fishing"],
+			},
+			{
+				"name": "Masonry",
+				"row": 5,
+				"prerequisites": ["Mining"],
+			},
+			{
+				"name": "Archery",
+				"row": 6,
+				"prerequisites": ["Animal Husbandry"],
+			},
+			{
+				"name": "The Wheel",
+				"row": 7,
+				"prerequisites": ["Animal Husbandry"],
+			}
+    ]
+  },
 ]
   
