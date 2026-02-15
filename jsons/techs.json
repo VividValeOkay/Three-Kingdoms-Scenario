@@ -91,5 +91,19 @@
 			}
     ]
   },
+	{
+		"columnNumber": 4,
+		"era": "Ancient era",
+		"techCost": 900,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Tomb Building",
+				"row": 5,
+				"prerequisites": ["Masonry"],
+			}
+    ]
+  },
 ]
   
