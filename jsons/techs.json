@@ -41,7 +41,7 @@
 	{
 		"columnNumber": 2,
 		"era": "Ancient era",
-		"techCost": 60,
+		"techCost": 80,
 		"buildingCost": 40,
 		"wonderCost": 185,
 		"techs": [
@@ -69,6 +69,25 @@
 				"name": "The Wheel",
 				"row": 7,
 				"prerequisites": ["Animal Husbandry"],
+			}
+    ]
+  },
+	{
+		"columnNumber": 3,
+		"era": "Ancient era",
+		"techCost": 600,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Medicine",
+				"row": 3,
+				"prerequisites": ["Irrigation"],
+			},
+			{
+				"name": "Fortification",
+				"row": 4,
+				"prerequisites": ["Mining"],
 			}
     ]
   },
